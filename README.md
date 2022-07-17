@@ -1,6 +1,6 @@
 ### Language :
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=로고명&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 <h2>👀 My github Stats</h2>
 
