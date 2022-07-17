@@ -33,7 +33,9 @@
 	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-000000.svg?&style=for-the-badge&logo=Solidity"/>
 	
 <p>
-	
+   
+   
+   
 ### 😃 My Github status!!!
 ------
 <div>
@@ -50,7 +52,9 @@
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
-
+   
+   
+   
 ### 🤝 Connect me!!!
 ------
 <p align="center">
