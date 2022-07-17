@@ -10,7 +10,7 @@
 <img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
 <img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
 <img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
-<img alt="Javascrpit" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Flask" src ="https://img.shields.io/badge/Flask-3776AB.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 
 
 <h2>👀 My github Stats</h2>
