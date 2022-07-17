@@ -1,11 +1,15 @@
 <h1>👋 Hello!! Visitors!!</h1>
-------
 
 - I'm Jinu, Data research, ML Developer, NFT Developer, NFT Collecter etc...
+
 - Entered Sejong Univ. at 03.2022</p>
+
 - Finished Naver boost camp Ai tech third term</p>
+
 - Working at "Honey Bottle", NFT research team</p>
+
 - Studying NFT, Smart contract</p>
+
    
 ### 🌈 Language Stack
 ------
