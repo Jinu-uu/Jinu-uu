@@ -1,5 +1,5 @@
 <h1> 👋 Hello!! Visitors!!</h1>
-- I'm Jinu __Data research, ML Developer, NFT Developer, NFT Collecter__ etc...
+- I'm Jinu <b>Data research, ML Developer, NFT Developer, NFT Collecter</b> etc...
 
 - Entered **Sejong Univ.** at 03.2022</p>
 
