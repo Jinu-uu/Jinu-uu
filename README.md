@@ -13,6 +13,7 @@
    
 <h3>🌈 Language Stack</h3>
 
+
 <p align="center">
 	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-000000.svg?&style=for-the-badge&logo=TensorFlow"/>
 	<img alt="Keras" src ="https://img.shields.io/badge/Keras-000000.svg?&style=for-the-badge&logo=Keras"/>
@@ -49,7 +50,8 @@
    
    
 <h3>😃 My Github status!!!</h3>
-<hr></hr>
+
+
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
@@ -68,6 +70,8 @@
    
    
 <h3>🤝 Connect me!!!</h3>
+
+
 <p align="center">
 	<a href="kland2001@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/small/50/000000/github.png" alt="GitHub"/></a>
