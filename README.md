@@ -1,10 +1,10 @@
 ### Language :
+
 <p align="center">
-	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-	<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-	
-<p>
+	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<p>	
 	
 <p align="center">
 	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -14,15 +14,17 @@
 <p>
 	
 <p align="center">
+	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+	<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+	
+<p>
+
+	
+<p align="center">
 	<img alt="C" src ="https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 	<img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
 	<img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
-<p>	
-	
-<p align="center">
-	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <p>	
 	
 <p align="center">
