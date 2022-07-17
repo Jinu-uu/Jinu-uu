@@ -1,5 +1,4 @@
 <h1>👋 Hello!! Visitors!!</h1>
-------
 
 - I'm Jinu, Data research, ML Developer, NFT Developer, NFT Collecter etc...
 
@@ -12,8 +11,7 @@
 - Studying NFT, Smart contract</p>
 
    
-### 🌈 Language Stack
-------
+<h3>🌈 Language Stack</h3>
 
 <p align="center">
 	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-000000.svg?&style=for-the-badge&logo=TensorFlow"/>
@@ -50,8 +48,7 @@
    
    
    
-### 😃 My Github status!!!
-------
+<h3>😃 My Github status!!!</h3>
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
@@ -69,8 +66,7 @@
    
    
    
-### 🤝 Connect me!!!
-------
+<h3>🤝 Connect me!!!</h3>
 <p align="center">
 	<a href="kland2001@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/small/50/000000/github.png" alt="GitHub"/></a>
