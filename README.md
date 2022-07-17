@@ -9,8 +9,9 @@
 - Working at "Honey Bottle", NFT research team</p>
 
 - Studying NFT, Smart contract</p>
-
-   
+<br></br>
+<br></br>
+<br></br>
 <h3>🌈 Language Stack</h3>
 
 
@@ -48,7 +49,9 @@
 <p>
    
    
-   
+<br></br>
+<br></br>
+<br></br>
 <h3>😃 My Github status!!!</h3>
 
 
@@ -68,7 +71,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
    
    
-   
+<br></br>
+<br></br>
+<br></br>
 <h3>🤝 Connect me!!!</h3>
 
 
