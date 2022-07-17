@@ -50,7 +50,7 @@
 ![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
 
-## 🙋‍♀️ Let's ME
+## 🤝 Connect me!!!
 <p align="center">
 	<a href="kland2001@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/small/50/000000/github.png" alt="GitHub"/></a>
