@@ -12,7 +12,7 @@
 <br></br>
 <br></br>
 <h3>🌈 Language Stack</h3>
-
+<hr></hr>
 
 <p align="center">
 	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-000000.svg?&style=for-the-badge&logo=TensorFlow"/>
@@ -52,6 +52,7 @@
 <br></br>
 <br></br>
 <h3>😃 My Github status!!!</h3>
+<hr></hr>
 
 
 <div>
@@ -74,6 +75,7 @@
 <br></br>
 <br></br>
 <h3>🤝 Connect me!!!</h3>
+<hr></hr>
 
 
 <p align="center">
