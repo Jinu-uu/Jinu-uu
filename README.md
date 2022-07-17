@@ -49,6 +49,7 @@
    
    
 <h3>😃 My Github status!!!</h3>
+<hr></hr>
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
