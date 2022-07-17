@@ -1,7 +1,7 @@
 ### Language :
 
 <p align="center">
-	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow"/>
 	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <p>	
