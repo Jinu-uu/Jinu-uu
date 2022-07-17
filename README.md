@@ -1,5 +1,5 @@
 <h2>👋 Hello!! Visitors!!</h2>
-
+<hr></hr>
 - I'm Jinu, Data research, ML Developer, NFT Developer, NFT Collecter etc...
 
 - Entered Sejong Univ. at 03.2022</p>
