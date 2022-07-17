@@ -2,34 +2,34 @@
 
 <p align="center">
 	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow"/>
-	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras"/>
+	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch"/>
 <p>	
 	
 <p align="center">
-	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-	<img alt="Streamlit" src ="https://img.shields.io/badge/Streamlit-3776AB.svg?&style=for-the-badge&logo=Streamlit&logoColor=white"/>
-	<img alt="Flask" src ="https://img.shields.io/badge/Flask-3776AB.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python"/>
+	<img alt="Streamlit" src ="https://img.shields.io/badge/Streamlit-3776AB.svg?&style=for-the-badge&logo=Streamlit"/>
+	<img alt="Flask" src ="https://img.shields.io/badge/Flask-3776AB.svg?&style=for-the-badge&logo=Flask"/>
 	
 <p>
 	
 <p align="center">
-	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-	<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript"/>
+	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3"/>
+	<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5"/>
 	
 <p>
 
 	
 <p align="center">
-	<img alt="C" src ="https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-	<img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
-	<img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
+	<img alt="C" src ="https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C"/>
+	<img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=Cplusplus"/>
+	<img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp"/>
 <p>	
 	
 <p align="center">
-	<img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
-	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
+	<img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite"/>
+	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity"/>
 	
 <p>
 	
