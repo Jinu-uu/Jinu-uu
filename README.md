@@ -1,4 +1,4 @@
-<h1>👋 Hello!! Visitors!!</h1>
+<h2>👋 Hello!! Visitors!!</h2>
 
 - I'm Jinu, Data research, ML Developer, NFT Developer, NFT Collecter etc...
 
