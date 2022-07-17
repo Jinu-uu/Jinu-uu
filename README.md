@@ -21,7 +21,6 @@
 	<a href="kland2001@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/jinu_uu__"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Chaosfire7"><img src="!https://user-images.githubusercontent.com/82719310/179392983-99ac9519-b88e-49d2-a468-c9ff84a1b289.png
-" alt="Twitter"/></a>
+	<a href="https://twitter.com/Chaosfire7"><img src="https://img.icons8.com/bubbles/50/000000/tiwtter.png" alt="Twitter"/></a>
 	
 </p>
