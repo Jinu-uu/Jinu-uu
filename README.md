@@ -1,8 +1,10 @@
-### ⚙️ &nbsp;GitHub Analytics
+## My Statistics
 
-<p align="center">
-<a href="https://github.com/Jinu-uu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jinu-uu&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
+<br>
