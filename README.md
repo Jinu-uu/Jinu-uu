@@ -1,15 +1,15 @@
 ### Language :
 <p align="center">
-	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 	<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 	
 <p>
 	
 <p align="center">
+	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 	<img alt="Streamlit" src ="https://img.shields.io/badge/Streamlit-3776AB.svg?&style=for-the-badge&logo=Streamlit&logoColor=white"/>
-	<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
+	<img alt="Flask" src ="https://img.shields.io/badge/Flask-3776AB.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 	
 <p>
 	
@@ -20,14 +20,15 @@
 <p>	
 	
 <p align="center">
-	<img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
-	<img alt="Flask" src ="https://img.shields.io/badge/Flask-3776AB.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 	<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-3776AB.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <p>	
 	
 <p align="center">
-	<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-3776AB.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-	<img alt="Keras" src ="https://img.shields.io/badge/Keras-3776AB.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+	<img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
+	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
+	
 <p>
 	
 <h2>👀 My github Stats</h2>
