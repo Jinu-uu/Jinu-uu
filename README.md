@@ -4,12 +4,13 @@
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Streamlit" src ="https://img.shields.io/badge/Streamlit-3776AB.svg?&style=for-the-badge&logo=Streamlit&logoColor=white"/>
-<img alt="Javascrpit" src ="https://img.shields.io/badge/Streamlit-3776AB.svg?&style=for-the-badge&logo=Javascrpit&logoColor=white"/>
+<img alt="Javascrpit" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
 <img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
 <img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
+<img alt="Javascrpit" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 
 <h2>👀 My github Stats</h2>
