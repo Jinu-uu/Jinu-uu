@@ -11,7 +11,7 @@
 <br></br>
 <br></br>
 <br></br>
-<h3>🌈 Language Stack</h3>
+<h2>🌈 Language Stack</h2>
 <hr></hr>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <br></br>
 <br></br>
 <br></br>
-<h3>😃 My Github status!!!</h3>
+<h2>😃 My Github status!!!</h2>
 <hr></hr>
 
 
@@ -74,7 +74,7 @@
 <br></br>
 <br></br>
 <br></br>
-<h3>🤝 Connect me!!!</h3>
+<h2>🤝 Connect me!!!</h2>
 <hr></hr>
 
 
