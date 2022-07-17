@@ -8,7 +8,7 @@
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-3776AB.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-<img alt="C#" src ="https://img.shields.io/badge/C-Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
+<img alt="C#" src ="https://img.shields.io/badge/C_Sharp-3776AB.svg?&style=for-the-badge&logo=C-Sharp&logoColor=white"/>
 <img alt="SQlite" src ="https://img.shields.io/badge/SQlite-3776AB.svg?&style=for-the-badge&logo=SQlite&logoColor=white"/>
 
 
