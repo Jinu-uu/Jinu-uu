@@ -1,27 +1,6 @@
-<p>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <br />
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-  <br />
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="33%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+### Language :
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=로고명&logoColor=ffffff"/>
 
 <h2>👀 My github Stats</h2>
 
