@@ -22,5 +22,5 @@
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/jinu_uu__"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Chaosfire7"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
-	<a href="https://twitter.com/Chaosfire7"><img src="https://img.icons8.com/small/50/000000/opensea.png" alt="Twitter"/></a>
+	<a href="https://opensea.io/account"><img src="https://img.icons8.com/small/50/000000/opensea.png" alt="Twitter"/></a>
 </p>
