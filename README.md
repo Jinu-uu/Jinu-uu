@@ -8,7 +8,6 @@
 - Working at "Honey Bottle", NFT research team
 
 - Studying NFT, Smart contract
-[me](https://github.com/Jinu-uu)
 <br></br>
 <br></br>
 <br></br>
