@@ -66,10 +66,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jinu-uu" alt="GitHub Stats" /> <br/><br/>
   
 </div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
-   
+<p align="center">
+	![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
+</p>
+<p align="center">
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
+</p> 
    
 <br></br>
 <br></br>
