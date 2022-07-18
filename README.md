@@ -69,8 +69,10 @@
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
-
    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu-uu&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+
 <br></br>
 <br></br>
 <br></br>
