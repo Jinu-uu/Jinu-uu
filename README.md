@@ -77,10 +77,10 @@
 <hr></hr>
 
 
-<p align="center">
+<div align="center">
 	<a href="mailto:kland2001@gmail.com"><img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Jinu-uu"><img src="https://img.icons8.com/small/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/jinu_uu__"><img src="https://img.icons8.com/small/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Chaosfire7"><img src="https://img.icons8.com/small/50/000000/twitter-circled.png" alt="Twitter"/></a>
 	<a href="https://opensea.io/LilStar"><img src="https://img.icons8.com/small/50/000000/opensea.png" alt="Twitter"/></a>
-</p>
+</div>
