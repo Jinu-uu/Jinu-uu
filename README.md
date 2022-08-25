@@ -70,7 +70,8 @@
 <div align="center">
 	<img src ="https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true" alt ="Github Stats"/>
 </div>
-<div aligin="center">
+
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact" alt = "Top Lang"/>
 </div>
 
