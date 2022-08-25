@@ -69,7 +69,7 @@
 <div align="center">
 	![My github status](https://github-readme-stats.vercel.app/api?username=Jinu-uu&show_icons=true&include_all_commits=true)
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu-uu&layout=compact)
-</div
+</div>
 <br></br>
 <br></br>
 <br></br>
