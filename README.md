@@ -5,7 +5,7 @@
 
 - 🎉 Finished **Naver boost camp Ai tech third term**
 
-- 🎯 Worked at "Honey Bottle", NFT research team
+- 🎯 Worked at **Honey Bottle**, NFT research team
 
 - 💻 Working at **FNAI LAB** at Sejong Univ.
 
