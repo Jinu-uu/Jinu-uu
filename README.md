@@ -1,15 +1,18 @@
 <h1>👋 Hello!! Visitors!!</h1>
-- 💖 I'm Jinu <b>Data research, ML Developer, NFT Developer, NFT Collecter</b> etc...
+- 💖 I'm Jinu <b>Data research, Data scientist, ML Developer, NFT Developer, NFT Collecter</b> etc...
 
-- 🏫 Currently enrolled **Sejong Univ.** at 03.2020
+- 🏫 Currently enrolled (03.2020) and expected to graduate in 02.2025
 
 - 🎉 Finished **Naver boost camp Ai tech third term**
 
 - 🎯 Worked at **Honey Bottle**, NFT research team
 
 - 💻 Working at **FNAI LAB** at Sejong Univ.
+- 💻 Working at **GameDuo**
+- 💻 Working at **ReturnZero**
 
 - 📖 Studying Recsys, **Fluent Python**
+  
 <br></br>
 <br></br>
 <br></br>
@@ -45,7 +48,8 @@
 	
 <p align="center">
 	<img alt="SQlite" src ="https://img.shields.io/badge/SQlite-000000.svg?&style=for-the-badge&logo=SQlite"/>
-	<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-000000.svg?&style=for-the-badge&logo=Solidity"/>
+	<img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-000000.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white&labelColor=000000"/>
+	<img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-000000.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white&labelColor=000000"/>
 	
 <p>
    
